@@ -7,3 +7,9 @@ VT public API
 https://developers.virustotal.com/v2.0/reference
 
 Deliverables: Executable application and source codes with simple readme on how it works. 
+
+The input parameters can be
+1. Number of files
+2. File path
+3. The type of hashing algorithm
+4. Public API key
